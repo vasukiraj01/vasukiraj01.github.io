@@ -1,0 +1,26 @@
+.skill {
+  background-color: #dbe2ef;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.skill h1 {
+  font-weight: bold;
+}
+
+.skill h1:before {
+  content: "『 ";
+}
+
+.skill h1:after {
+  content: " 』";
+}
+
+.skill-card {
+  margin: 20px auto;
+  width: 20rem;
+}
+
+.skill h6{
+  font-size: large;
+  font-family: "Montserrat", sans-serif;
+}

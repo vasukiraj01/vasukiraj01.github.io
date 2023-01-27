@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,200&display=swap');
+.about {
+  background-color: #F7F1ED;
+  /*background-image:linear-gradient(to bottom,#222831,#393e46,#00adb5);*/
+  color: black;
+}
+
+.about h1,
+h2,
+h3,
+h6
+{
+  font-family: 'Playfair Display', serif;
+}
+.about p{
+  font-family: 'Barlow', serif;
+  font-size: 18px;
+  font-weight:600;
+}
+
+.about h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.about h6 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: large;
+}
+
+.about h1:before {
+  content: "『 ";
+}
+
+.about h1:after {
+  content: " 』";
+}
+
+.about-row {
+  padding: 2%;
+}
+
+.about-col {
+  padding: auto 10%;
+}
+.about-image {
+  width: 80%;
+}

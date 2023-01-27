@@ -1,0 +1,71 @@
+.contact {
+  background-color: #dbe2ef;
+  color: #000;
+  text-align: center;
+}
+
+.contact h1,
+h2,
+h3,
+h5,
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.contact h6{
+  font-size:medium;
+}
+
+.contact h5{
+  font-size:large;
+
+}
+
+.contact h1:before {
+  content: "『 ";
+}
+
+.contact h1:after {
+  content: " 』";
+}
+
+.contact h3 {
+  color: #000;
+}
+
+.contact a {
+  color: #000;
+}
+
+.contact a:hover {
+  color: #28b0fa !important;
+}
+
+.contact a:focus {
+  color: #000 !important;
+}
+
+.contact-row {
+  margin: 2% 10%;
+}
+
+.contact-col {
+  margin: 5% auto;
+}
+
+.contact-a {
+  margin: auto 1%;
+}
+
+.contact-img {
+  width: 400px;
+  height: 380px;
+}
+
+@media (max-width: 1028px) {
+  .contact-carouse {
+    width: auto;
+    height: auto;
+  }
+}

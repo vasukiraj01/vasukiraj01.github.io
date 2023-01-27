@@ -1,0 +1,45 @@
+.project {
+  background-color: #3f72af;
+  font-family: "Montserrat", sans-serif;
+}
+
+.project h1 {
+  text-align: center;
+  font-weight: bold;
+  color: #f9f7f7;
+}
+
+.project h1:before {
+  content: "『 ";
+}
+
+.project h1:after {
+  content: " 』";
+}
+
+.project h6 {
+  text-align: center;
+  padding-bottom: 2%;
+  color: #f9f7f7;
+}
+
+.project-labeltitle {
+  color: #000;
+  font-weight: bold !important;
+  margin: 0 auto !important;
+}
+
+.project-subtitle {
+  color: #282829;
+  font-weight: bolder !important;
+  margin: 0 auto !important;
+}
+
+.project-detail {
+  color: #000;
+  font-weight: bold !important;
+}
+
+.project-button {
+  margin: 4% 1% auto;
+}
