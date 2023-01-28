@@ -1,19 +1,21 @@
 {
-  "files": {
-    "main.css": "/vasukiraj01/vasukiraj01.github.io/static/css/main.f653b0db.css",
-    "main.js": "/vasukiraj01/vasukiraj01.github.io/static/js/main.a2c7b8ad.js",
-    "static/media/workbench.gif": "/vasukiraj01/vasukiraj01.github.io/static/media/workbench.4431b0cdd1cc6a94f1e9.gif",
-    "static/media/art.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/art.6ca551df6503dcecddae.jpg",
-    "static/media/travel.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/travel.8119db9bd477c027ece0.jpg",
-    "static/media/food.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/food.784d9ad6b0e618d469ed.jpg",
-    "static/media/profile.png": "/vasukiraj01/vasukiraj01.github.io/static/media/profile.889bc07ba5e97e10aed6.png",
-    "static/media/background.png": "/vasukiraj01/vasukiraj01.github.io/static/media/background.f98f882398b0f858da34.png",
-    "index.html": "/vasukiraj01/vasukiraj01.github.io/index.html",
-    "main.f653b0db.css.map": "/vasukiraj01/vasukiraj01.github.io/static/css/main.f653b0db.css.map",
-    "main.a2c7b8ad.js.map": "/vasukiraj01/vasukiraj01.github.io/static/js/main.a2c7b8ad.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.f653b0db.css",
-    "static/js/main.a2c7b8ad.js"
-  ]
+  "main.css": "/vasukiraj01/vasukiraj01.github.io/static/css/main.bada4176.chunk.css",
+  "main.js": "/vasukiraj01/vasukiraj01.github.io/static/js/main.c390b816.chunk.js",
+  "main.js.map": "/vasukiraj01/vasukiraj01.github.io/static/js/main.c390b816.chunk.js.map",
+  "static/css/1.7b92daaf.chunk.css": "/vasukiraj01/vasukiraj01.github.io/static/css/1.7b92daaf.chunk.css",
+  "static/js/1.4bdb9add.chunk.js": "/vasukiraj01/vasukiraj01.github.io/static/js/1.4bdb9add.chunk.js",
+  "static/js/1.4bdb9add.chunk.js.map": "/vasukiraj01/vasukiraj01.github.io/static/js/1.4bdb9add.chunk.js.map",
+  "runtime~main.js": "/vasukiraj01/vasukiraj01.github.io/static/js/runtime~main.8a11fba3.js",
+  "runtime~main.js.map": "/vasukiraj01/vasukiraj01.github.io/static/js/runtime~main.8a11fba3.js.map",
+  "static/media/profile.png": "/vasukiraj01/vasukiraj01.github.io/static/media/profile.4d77fe0d.png",
+  "static/media/workbench.gif": "/vasukiraj01/vasukiraj01.github.io/static/media/workbench.75f85fa0.gif",
+  "static/media/art.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/art.b03237e4.jpg",
+  "static/media/travel.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/travel.e20657d4.jpg",
+  "static/media/food.jpg": "/vasukiraj01/vasukiraj01.github.io/static/media/food.5d963ddb.jpg",
+  "static/media/home.css": "/vasukiraj01/vasukiraj01.github.io/static/media/background.573932f7.png",
+  "static/css/main.bada4176.chunk.css.map": "/vasukiraj01/vasukiraj01.github.io/static/css/main.bada4176.chunk.css.map",
+  "static/css/1.7b92daaf.chunk.css.map": "/vasukiraj01/vasukiraj01.github.io/static/css/1.7b92daaf.chunk.css.map",
+  "index.html": "/vasukiraj01/vasukiraj01.github.io/index.html",
+  "precache-manifest.130afacca3e5cc032e752b3be09a011d.js": "/vasukiraj01/vasukiraj01.github.io/precache-manifest.130afacca3e5cc032e752b3be09a011d.js",
+  "service-worker.js": "/vasukiraj01/vasukiraj01.github.io/service-worker.js"
 }
