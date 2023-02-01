@@ -17,7 +17,7 @@ const project = [
     iconStyle: { background: "#015a91", color: "#fff" },
     links: [
       {
-        url: "https://github.com/vasukiraj01/vasuki.github.io",
+        url: "https://github.com/vasukiraj01/vasukiraj01.github.io",
         text: "Resume Webpage"
       }
     ]
